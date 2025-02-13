@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(202, 193, 181);
+    font-family: 'Times New Roman', Times, serif
+}
+.titleborder{
+    background-color: rgb(95, 57, 0);
+    font-size: 15px;
+}
+.titlepage{
+    text-align: center;
+    color: whitesmoke;
+
+}
+.menus{
+    height: 200px;
+    width: 200px;
+    
+}

@@ -1,0 +1,15 @@
+body{ 
+     background-color: rgb(202, 193, 181);
+    font-family: 'Times New Roman', Times, serif
+}
+
+.frontrecipe{
+    background-color: rgb(95, 57, 0);
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.description{
+    text-align: center;
+}
